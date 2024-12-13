@@ -1,0 +1,21 @@
+{
+
+	"Default Function": {
+		"scope": "javascript,typescript",
+		"prefix": "cachorro",
+		"body": [
+			"import React from 'react';",
+			"import { Text } from 'react-native';",
+			"",
+			"export default function NOME_DA_FUNÇÃO(){",
+			"",
+			"    return(",
+			"        <>",
+			"            <Text>$1</Text>",
+			"        </>",
+			"    );",
+			"}"
+		],
+		"description": "Log output to console"
+	}
+}
